@@ -1,2 +1,2 @@
 #!/bin/bash
-npx hs upload my-website-theme my-website-theme\
+npx hs upload my-website-theme ../my-website-theme\
