@@ -1,7 +1,7 @@
 /* Header container */
 
 .header {
-  background-color: goldenrod;
+  background-color: red;
 }
 
 .header .header__logo .logo-company-name {
